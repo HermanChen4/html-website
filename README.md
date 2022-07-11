@@ -1,2 +1,48 @@
-# html-website
-First Website
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Cats</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <header>
+      <h1>What are cats?</h1>
+        <nav>
+          <ul>
+            <li><a href="/">Munchkin</a></li>
+            <li><a href="/">Ragdoll</a></li>
+            <li><a href="/">Scotish Fold</a></li>
+            </ul>
+        </nav>
+      
+    </header>
+    <main>
+      <H2> Breeds of Cats </H2>
+          <h2><script src="app.js"></script></h2>
+<p>Cats are lovable domesticated mammals which are now one of the most common household animals.</p>
+      
+      <section>
+        <img alt="Ki" src="https://placekitten.com/640/360" alt=Munchkin cat >
+        <p> The munchkin can is characterized by it's genetic mutation which causes the cat to have a stocky body and short leg</p>
+      </section>
+
+      <section>
+        <img src="https://placekitten.com/640/360" alt="Ragdoll cat" />
+        <p>The ragdoll cat is a cat typically breeded in America which has a dense coat and blue eyes.</p>
+      </section>
+
+      <section>
+        <img src="https://placekitten.com/640/360" alt="Scotish Fold" />
+        <p>The Scotish fold cat is known as the domesticated British household cat.</p>
+      </section>
+      
+      <p>
+        Cats are part of many people's day-to-day lives, they act as companions, friends, and family to many. 
+      </p>
+    </main>
+
+    <footer>
+      <p>&copy; Heramn Chen</p>
+    </footer>
+  </body>
+</html>
