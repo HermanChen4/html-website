@@ -16,10 +16,6 @@ header {
   background-color: white;
   text-align: center;
   
-H2{ 
-   text-align: center; 
-}
-
 nav {
   background: azure;
 }
@@ -48,5 +44,4 @@ footer {
 
 img {
   margin: 20px;
-  text-align: center;
 }
