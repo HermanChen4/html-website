@@ -1,37 +1,48 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Cats</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <header>
+      <h1>What are cats?</h1>
+        <nav>
+          <ul>
+            <li><a href="/">Munchkin</a></li>
+            <li><a href="/">Ragdoll</a></li>
+            <li><a href="/">Scotish Fold</a></li>
+            </ul>
+        </nav>
+      
+    </header>
+    <main>
+      <H2> Breeds of Cats </H2>
+          <h2><script src="app.js"></script></h2>
+<p>Cats are lovable domesticated mammals which are now one of the most common household animals.</p>
+      
+      <section>
+        <img alt="Ki" src="https://placekitten.com/640/360" alt=Munchkin cat >
+        <p> The munchkin can is characterized by it's genetic mutation which causes the cat to have a stocky body and short leg</p>
+      </section>
 
-You can use the [editor on GitHub](https://github.com/HermanChen4/html-website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+      <section>
+        <img src="https://placekitten.com/640/360" alt="Ragdoll cat" />
+        <p>The ragdoll cat is a cat typically breeded in America which has a dense coat and blue eyes.</p>
+      </section>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+      <section>
+        <img src="https://placekitten.com/640/360" alt="Scotish Fold" />
+        <p>The Scotish fold cat is known as the domesticated British household cat.</p>
+      </section>
+      
+      <p>
+        Cats are part of many people's day-to-day lives, they act as companions, friends, and family to many. 
+      </p>
+    </main>
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HermanChen4/html-website/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+    <footer>
+      <p>&copy; Heramn Chen</p>
+    </footer>
+  </body>
+</html>
