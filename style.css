@@ -15,6 +15,9 @@ header {
   padding: 5px;
   background-color: white;
   text-align: center;
+  
+H2{ 
+   text-align: center; 
 }
 
 nav {
@@ -45,4 +48,5 @@ footer {
 
 img {
   margin: 20px;
+  text-align: center;
 }
